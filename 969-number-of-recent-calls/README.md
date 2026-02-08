@@ -1,3 +1,6 @@
+<img width="901" height="411" alt="image" src="https://github.com/user-attachments/assets/0987b8f1-7e6e-48fe-b4ba-2c49122b786c" />
+
+
 <h2><a href="https://leetcode.com/problems/number-of-recent-calls">Number of Recent Calls</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You have a <code>RecentCounter</code> class which counts the number of recent requests within a certain time frame.</p>
 
 <p>Implement the <code>RecentCounter</code> class:</p>
