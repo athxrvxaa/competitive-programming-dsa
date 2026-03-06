@@ -4,9 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        for i in range(len(s) -1):
-            if s[i] == '0' and s[i+1] == '1':
-                return False
+        # for i in range(len(s) -1):
+        #     if s[i] == '0' and s[i+1] == '1':
+        #         return False
 
-        return True
+        # return True
+        return "01" not in s
         
